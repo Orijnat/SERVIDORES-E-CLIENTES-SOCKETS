@@ -8,7 +8,7 @@ Sistema simples de comunicação entre um **cliente** e um **servidor** usando s
 |---|---|
 | `socket_servidor.py` | Servidor TCP multithreaded |
 | `socket_cliente.py` | Cliente TCP interativo |
-| `servidor.log` | Gerado automaticamente ao executar o servidor |
+| `servidor.log` | Gerado automaticamente  dentro da src apos executar o servidor |
 
 ## Requisitos
 
